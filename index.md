@@ -7,7 +7,7 @@
   background-color: Black;
 }
 .flex-container > div {
-  margin: 25px;
+  margin: 15px;
   padding: 10px;
 }
 
