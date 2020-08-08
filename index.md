@@ -8,7 +8,7 @@
 }
 .flex-container > div {
   margin: 15px;
-  padding: 10px;
+  padding: 5px;
 }
 
 </style>
