@@ -110,52 +110,25 @@
 
 <div class="flex-container">
 	<div>
-	<coingecko-coin-ticker-widget  coin-id="nftlootbox" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
+	<coingecko-coin-ticker-widget  coin-id="nftlootbox" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
 </div>
 
 <div class="flex-container">
 	<div>
-	<coingecko-coin-ticker-widget  coin-id="rarible" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
+	<coingecko-coin-ticker-widget  coin-id="rarible" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
 </div>
 
 <div class="flex-container">
 	<div>
-	<coingecko-coin-ticker-widget  coin-id="unique-one" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
+	<coingecko-coin-ticker-widget  coin-id="unique-one" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
 </div>
 
 <div class="flex-container">
 	<div>
-	<coingecko-coin-ticker-widget  coin-id="ethverse" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
-	</div>
-</div>
-
-
-
-
-<div class="flex-container">
-	<div>
-	<coingecko-coin-ticker-widget  coin-id="aavegotchi" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
-	</div>
-</div>
-
-<div class="flex-container">
-	<div>
-	<coingecko-coin-ticker-widget  coin-id="unifi" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
-	</div>
-</div>
-
-<div class="flex-container">
-	<div>
-	<coingecko-coin-ticker-widget  coin-id="nft-protocol" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
-	</div>
-</div>
-
-<div class="flex-container">
-	<div>
-	<coingecko-coin-ticker-widget  coin-id="growth-defi" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
+	<coingecko-coin-ticker-widget  coin-id="ethverse" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
 </div>
 
@@ -164,40 +137,57 @@
 
 <div class="flex-container">
 	<div>
-	<coingecko-coin-ticker-widget  coin-id="the-sandbox" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
+	<coingecko-coin-ticker-widget  coin-id="aavegotchi" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
 </div>
 
 <div class="flex-container">
 	<div>
-	<coingecko-coin-ticker-widget  coin-id="axie-infinity" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
+	<coingecko-coin-ticker-widget  coin-id="unifi" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
 </div>
 
 <div class="flex-container">
 	<div>
-	<coingecko-coin-ticker-widget  coin-id="truefi" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
+	<coingecko-coin-ticker-widget  coin-id="nft-protocol" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
 </div>
 
 <div class="flex-container">
 	<div>
-	<coingecko-coin-ticker-widget  coin-id="nftx-hashmasks-index" currency="usd" locale="en" width="400"></coingecko-coin-ticker-widget>
+	<coingecko-coin-ticker-widget  coin-id="growth-defi" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
 </div>
 
 
 
 
-<!-- <div class="flex-container">
-<div>
-<a class="twitter-timeline" data-width="920" data-height="460" data-dnt="true" data-theme="dark" href="https://twitter.com/CoinbasePro?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="flex-container">
+	<div>
+	<coingecko-coin-ticker-widget  coin-id="the-sandbox" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
+	</div>
 </div>
 
-<!-- <div>
-<a class="twitter-timeline" data-width="920" data-height="460" data-dnt="true" data-theme="dark" href="https://twitter.com/coinbase?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="flex-container">
+	<div>
+	<coingecko-coin-ticker-widget  coin-id="axie-infinity" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
+	</div>
 </div>
-<!-- <embed type="text/html" src="https://coinstats.app/p/KsaV2P" width="1891" height="1080">
+
+<div class="flex-container">
+	<div>
+	<coingecko-coin-ticker-widget  coin-id="truefi" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
+	</div>
+</div>
+
+<div class="flex-container">
+	<div>
+	<coingecko-coin-ticker-widget  coin-id="nftx-hashmasks-index" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
+	</div>
+</div>
+
+
+
 
 
 
