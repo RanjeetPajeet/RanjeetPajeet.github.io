@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -75,7 +74,7 @@
 
 <script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
 
-<coingecko-coin-price-marquee-widget  coin-ids="bitcoin,ethereum,cardano,polkadot,litecoin,chainlink,uniswap,dogecoin,cosmos,aave,monero,iota,synthetix,the-graph" currency="usd" background-color="#d6d6d6" locale="en"></coingecko-coin-price-marquee-widget>
+<coingecko-coin-price-marquee-widget  coin-ids="bitcoin,ethereum,cardano,polkadot,litecoin,chainlink,uniswap,dogecoin,cosmos,aave,monero,iota,havven,the-graph" currency="usd" background-color="#d6d6d6" locale="en"></coingecko-coin-price-marquee-widget>
 
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
 
@@ -86,15 +85,21 @@
 	<div>
 	<coingecko-coin-ticker-widget  coin-id="ethart" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
+</div>
 
+<div class="flex-container">
 	<div>
 	<coingecko-coin-ticker-widget  coin-id="nftx" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
+</div>
 
+<div class="flex-container">
 	<div>
 	<coingecko-coin-ticker-widget  coin-id="polyient-games-governance-token" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
+</div>
 
+<div class="flex-container">
 	<div>
 	<coingecko-coin-ticker-widget  coin-id="crowns" currency="usd" locale="en" width="300"></coingecko-coin-ticker-widget>
 	</div>
